@@ -48,4 +48,16 @@ The **Whiteboard** is a Python-based drawing application built using **Tkinter**
 📌 **Additional Features:**  
 - Uses **PIL (Pillow)** for handling images.  
 - **Custom icons** for the UI.  
-- **Automatic UI updates** (slider label updates in real-time).  
+- **Automatic UI updates** (slider label updates in real-time).
+
+
+📌 **Images:** 
+
+  <img width="1047" height="597" alt="wh1" src="https://github.com/user-attachments/assets/d6fe2795-e4d5-4074-9b25-c1b9becf94e4" />
+  <img width="1055" height="599" alt="wh2" src="https://github.com/user-attachments/assets/f9e21762-fad0-476a-b38c-0fd4febc8b4e" />
+  <img width="1051" height="602" alt="wh3" src="https://github.com/user-attachments/assets/f3e1b79e-218e-40b0-b937-8bf88f7e5e37" />
+  <img width="1050" height="594" alt="wh4" src="https://github.com/user-attachments/assets/e5466e25-61b5-4a95-9d69-05b9ecab5589" />
+
+
+
+
